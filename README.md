@@ -1,4 +1,2 @@
-# Demo-Java
-First repository
-
-This is just a practise repository where just do random stuf and check if that looks ok
+#Java Project
+Everydone is welcome for pull request
